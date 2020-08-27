@@ -10,3 +10,8 @@ This repository is available in English and Portuguese
 
 
 I hope you like it 🤓
+
+
+|Topic                                                                 | Name                                                                                                                             | Short Description                                          | Status     | Language |
+|----------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------- | ---------- |----------|
+|<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> | [Linguagem C completa e Descomplicada](https://github.com/MilenaCarecho/myBooks/tree/master/LinguagemCCompletaDescomplocada_Andre)| This book was developed as a complete C language course.                                                    | Reading 📖 |    🇧🇷    |
