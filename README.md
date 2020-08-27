@@ -5,7 +5,7 @@ This is my personal reading list of books related to the programming and persona
 
 This repository is available in English and Portuguese
 
-* [Portuguese (Br) 🇧🇷](https://github.com/MilenaCarecho/myBooks/tree/Pt-br)
+* [Portuguese 🇧🇷](https://github.com/MilenaCarecho/myBooks/tree/Pt-br)
 * [English 🇺🇸](https://github.com/MilenaCarecho/myBooks)
 
 
