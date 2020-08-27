@@ -1,7 +1,7 @@
 ##  📚 My books 📚
 Hey everyone!
 
-This is my personal reading list of books related to the programming language and personal development
+This is my personal reading list of books related to the programming and personal development
 
 This repository is available in English and Portuguese
 
