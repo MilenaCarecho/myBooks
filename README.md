@@ -7,7 +7,7 @@ Essa é a minha lista de leitura de livros relacionados a programação e desenv
 Esse repositorio esta sendo feito inicialmente em inglês, mas para torna-lo acessivel, estou fazendo essa versão em português tambem! 
 
 
-* [Portuguese (Br) 🇧🇷](https://github.com/MilenaCarecho/myBooks/tree/Pt-br)
+* [Portuguese 🇧🇷](https://github.com/MilenaCarecho/myBooks/tree/Pt-br)
 * [English 🇺🇸](https://github.com/MilenaCarecho/myBooks)
 
 
