@@ -12,7 +12,7 @@ This repository is available in English and Portuguese
 I hope you like it 🤓
 
 
-|Topic                                                                 | Name                                                                                                                             | Short Description                                          | Status     | Language | Free |
+|Topic                                                                 | Name                                                                                                                             | Short Description                                          | Status     | Language | PDF |
 |----------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------------------------| -----------------------------------------------------| ---------- |----------| -----|
 |<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> | [Linguagem C completa e Descomplicada](https://github.com/MilenaCarecho/myBooks/tree/master/LinguagemCCompletaDescomplocada_Andre)| This book was developed as a complete C language course.| Reading   📖 | 🇧🇷 | Yes 💸 |
 |<img src="https://img.icons8.com/nolan/64/development-skill.png"/>| [Clean Code](https://github.com/MilenaCarecho/myBooks/tree/master/Clean%20Code)|The mission of this series is to improve the state of the art of software craftsmanship | I'll read 📅 | 🇺🇸 | Yes 💸 |
